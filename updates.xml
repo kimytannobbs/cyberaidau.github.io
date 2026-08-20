@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+<channel>
+  <title>CyberAidAU Updates</title>
+  <link>https://kimytannobbs.github.io/cyberaidau.github.io/updates.html</link>
+  <description>Pathway progress updates from CyberAidAU — real milestones on the way to taking on clients.</description>
+  <language>en-au</language>
+
+  <item>
+    <title>Hands-on vulnerability assessment training</title>
+    <link>https://kimytannobbs.github.io/cyberaidau.github.io/updates.html</link>
+    <guid isPermaLink="false">cyberaidau-update-2026-08-htb-va</guid>
+    <pubDate>Thu, 20 Aug 2026 00:00:00 +1000</pubDate>
+    <description>Working through Hack The Box Academy's Vulnerability Assessment module, then applying it directly — running full practice assessments against a self-built lab environment, start to finish.</description>
+  </item>
+
+</channel>
+</rss>
